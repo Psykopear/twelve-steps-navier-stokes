@@ -6,5 +6,5 @@ You need `poetry` to run exercises.
 
 ```
 poetry install
-poetry run python ch01.py
+poetry run python src/main.py
 ```
