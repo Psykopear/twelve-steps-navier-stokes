@@ -1,1 +1,3 @@
 *.mp4
+plot*.png
+__pycache__
